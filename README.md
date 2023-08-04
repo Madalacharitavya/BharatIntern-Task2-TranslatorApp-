@@ -67,3 +67,6 @@ This Translator AI was created by [Your Name].
 - The "translate" package is used to implement the translation functionality in this AI. We acknowledge the developers and contributors of the "translate" package for their work.
 
   Output(DEMO)
+
+https://github.com/Madalacharitavya/BharatIntern-Task2-TranslatorApp-/assets/102969979/014fbb13-e6c9-45ca-b1a3-f44445fdf314
+
