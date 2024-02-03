@@ -70,3 +70,10 @@ This Translator AI was created by [Your Name].
 
 https://github.com/Madalacharitavya/BharatIntern-Task2-TranslatorApp-/assets/102969979/014fbb13-e6c9-45ca-b1a3-f44445fdf314
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
